@@ -1,0 +1,21 @@
+nome_do_livro,isbn,genero,qtd_unidades
+Clean Code: A Handbook of Agile Software Craftsmanship,9780132350884,Desenvolvimento de Software,25
+Introduction to Algorithms,9780262033848,Algoritmos,15
+Design Patterns: Elements of Reusable Object-Oriented Software,9780201633610,Desenvolvimento de Software,10
+Artificial Intelligence: A Modern Approach,9780134610993,Inteligência Artificial,30
+Deep Learning,9780262035613,Inteligência Artificial,20
+Computer Networking: A Top-Down Approach,9780133594140,Redes de Computadores,18
+Structure and Interpretation of Computer Programs,9780262510875,Teoria da Computação,12
+Code Complete: A Practical Handbook of Software Construction,9780735619678,Desenvolvimento de Software,22
+Python Crash Course,9781593279288,Programação,28
+Operating System Concepts,9781118063330,Sistemas Operacionais,14
+Principles of Compiler Design,9780201100884,Compiladores,8
+Refactoring: Improving the Design of Existing Code,9780201485677,Desenvolvimento de Software,26
+The Pragmatic Programmer: Your Journey to Mastery,9780201616224,Desenvolvimento de Software,19
+Artificial Intelligence: Foundations of Computational Agents,9781107073194,Inteligência Artificial,17
+Learning SQL,9780596520830,Banco de Dados,21
+Modern Operating Systems,9780133591620,Sistemas Operacionais,11
+The Mythical Man-Month: Essays on Software Engineering,9780201835953,Gestão de Projetos,13
+Software Engineering: A Practitioner's Approach,9780073375977,Engenharia de Software,16
+The C Programming Language,9780131103627,Programação,23
+Machine Learning Yearning,9780999733800,Inteligência Artificial,9
